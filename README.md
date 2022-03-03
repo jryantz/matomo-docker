@@ -1,5 +1,7 @@
 # Docker (Matomo - NGINX - MariaDB)
 
+Use this repository to quickly setup a Matomo instance with MariaDB and NGINX.
+
 [Matomo](https://matomo.org) is the leading open-source analytics platform that gives you more that just powerful analytics:
 
 - Free open-source software
